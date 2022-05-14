@@ -1,5 +1,5 @@
 # 2nd_proj_Data_analysis_pyth
-In this project i downloaded a data for online shop like amazon in which i clean the data and ask bussiness question
+In this project i downloaded a data for online shop like amazon in which i clean the data and ask business question
 
 1- The data are split in months so i merged them first
 
